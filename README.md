@@ -50,7 +50,7 @@
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/yourusername/remart.git
+git clone https://github.com/samvabya/remart.git
 
 # Navigate to project directory
 cd remart
@@ -162,7 +162,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 🔗 Links
 
-- **Live Demo**: [https://remart-demo.vercel.app](https://remart-demo.vercel.app)
+- **Live Demo**: [https://remart-one.vercel.app/](https://remart-one.vercel.app/)
 
 ---
 
